@@ -1,0 +1,3 @@
+[submodule "modulesub"]
+	path = modulesub
+	url = https://github.com/rudra-intel/modulesub.git
